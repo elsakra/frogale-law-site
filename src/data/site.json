@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name": "Frogale Law",
+    "tagline": "Justice for the Injured",
+    "description": "Frogale Law helps Virginia injury victims hold negligent people and insurance companies accountable — with personal attention and relentless advocacy. We bring years of experience in injury law in Alexandria, Virginia to the table, successfully handling a wide range of cases from car accidents and slip-and-fall incidents to dog bites and wrongful death claims.",
+    "phone": "(703) 488-7140",
+    "email": null,
+    "address": "5250 Cherokee Avenue, Suite 306, Alexandria, Virginia 22312",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769107776/auto-site-builder/Frogale%20Law/image_0.png",
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Justice for the Injured",
+    "subheadline": "Frogale Law helps Virginia injury victims hold negligent people and insurance companies accountable — with personal attention and relentless advocacy.",
+    "cta": {
+      "label": "Free Case Evaluation",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://res.cloudinary.com/dil14r8je/image/upload/v1769107776/auto-site-builder/Frogale%20Law/image_1.jpg",
+    "imageOpacity": 70
+  },
+  "sections": {
+    "about": {
+      "headline": "Why Choose Us",
+      "content": "We bring years of experience in injury law in Alexandria, Virginia to the table. We have successfully handled a wide range of cases, from car accidents and slip-and-fall incidents to dog bites and wrongful death claims. Our experience is not just a testament to our legal expertise, but also to our deep understanding of injury law in Alexandria, Virginia. We know the ins and outs of the legal system and leverage this knowledge to build compelling cases at the settlement table or in court.",
+      "image": "https://plus.unsplash.com/premium_photo-1661328082931-6ff99534f69f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwb2ZmaWNlJTIwaW50ZXJpb3IlMjBwcm9mZXNzaW9uYWx8ZW58MHwwfHx8MTc2OTEwNzkzN3ww&ixlib=rb-4.1.0&q=85",
+      "values": [
+        {
+          "title": "Experience",
+          "description": "Years of experience in injury law with successful handling of wide range of cases"
+        },
+        {
+          "title": "Hard Work",
+          "description": "No substitute for hard work. We roll up our sleeves and invest the time needed to build strong legal strategies"
+        },
+        {
+          "title": "Peace of Mind",
+          "description": "We take on the burden of legal complexities, allowing you to focus on recovery and well-being"
+        },
+        {
+          "title": "Relentless",
+          "description": "We don't back down in the face of challenges and tenaciously pursue the best possible results"
+        }
+      ]
+    },
+    "services": {
+      "headline": "Practice Areas"
+    },
+    "team": {
+      "headline": "Our Attorneys"
+    },
+    "testimonials": {
+      "headline": "What Do Former Clients Have to Say About Us?"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "Home",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Free Case Evaluation",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Frogale Law. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Virginia Personal Injury Lawyer | Frogale Law",
+    "description": "Poised to Win. Determined to Fight. We want you to recover. We want you to receive the compensation you deserve. And we want to do it together."
+  },
+  "theme": "light",
+  "vibe": "community"
+}
